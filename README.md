@@ -1,6 +1,6 @@
 riptable-docdata
 ================
 
-Package for fetching datasets used in riptide documentation examples.
+Package for fetching datasets used in riptable documentation examples.
 
 TODO
